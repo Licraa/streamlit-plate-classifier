@@ -1,0 +1,8 @@
+streamlit
+numpy
+opencv-python
+scikit-learn
+Pillow
+requests
+streamlit-ace
+streamlit-lottie
